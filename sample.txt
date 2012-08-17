@@ -1,2 +1,4 @@
 ﻿this is sample text.
 サルでも分かるGitコマンド
+
+push:こんにちは
